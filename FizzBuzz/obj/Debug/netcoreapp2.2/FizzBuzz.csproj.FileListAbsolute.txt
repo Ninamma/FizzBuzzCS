@@ -1,0 +1,14 @@
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.deps.json
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.runtimeconfig.json
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.runtimeconfig.dev.json
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.dll
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.pdb
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.Library.dll
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.Library.pdb
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.csprojAssemblyReference.cache
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.AssemblyInfoInputs.cache
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.AssemblyInfo.cs
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.csproj.CopyComplete
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.dll
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.pdb

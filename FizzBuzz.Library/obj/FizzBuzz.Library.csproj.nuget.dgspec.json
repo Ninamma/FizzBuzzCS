@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/FizzBuzz.Library.csproj": {}
+  },
+  "projects": {
+    "/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/FizzBuzz.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/FizzBuzz.Library.csproj",
+        "projectName": "FizzBuzz.Library",
+        "projectPath": "/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/FizzBuzz.Library.csproj",
+        "packagesPath": "/Users/ninammarai/.nuget/packages/",
+        "outputPath": "/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/Users/ninammarai/.dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ninammarai/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

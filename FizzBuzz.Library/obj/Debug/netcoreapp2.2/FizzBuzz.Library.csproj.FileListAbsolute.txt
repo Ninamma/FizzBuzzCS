@@ -1,0 +1,9 @@
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/bin/Debug/netcoreapp2.2/FizzBuzz.Library.deps.json
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/bin/Debug/netcoreapp2.2/FizzBuzz.Library.dll
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/bin/Debug/netcoreapp2.2/FizzBuzz.Library.pdb
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/obj/Debug/netcoreapp2.2/FizzBuzz.Library.csprojAssemblyReference.cache
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/obj/Debug/netcoreapp2.2/FizzBuzz.Library.csproj.CoreCompileInputs.cache
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/obj/Debug/netcoreapp2.2/FizzBuzz.Library.AssemblyInfoInputs.cache
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/obj/Debug/netcoreapp2.2/FizzBuzz.Library.AssemblyInfo.cs
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/obj/Debug/netcoreapp2.2/FizzBuzz.Library.dll
+/Users/ninammarai/RiderProjects/FizzBuzz/FizzBuzz.Library/obj/Debug/netcoreapp2.2/FizzBuzz.Library.pdb
